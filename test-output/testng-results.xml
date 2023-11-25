@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[task1]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-11-25T20:26:19 IST" name="Default suite" finished-at="2023-11-25T20:26:29 IST" duration-ms="10317">
+    <groups>
+    </groups>
+    <test started-at="2023-11-25T20:26:19 IST" name="Default test" finished-at="2023-11-25T20:26:29 IST" duration-ms="10317">
+      <class name="adnabu.difflang">
+        <test-method is-config="true" signature="project()[pri:0, instance:adnabu.difflang@2d3379b4]" started-at="2023-11-25T20:26:19 IST" name="project" finished-at="2023-11-25T20:26:19 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[task1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- project -->
+        <test-method is-config="true" signature="Setpro()[pri:0, instance:adnabu.difflang@2d3379b4]" started-at="2023-11-25T20:26:19 IST" name="Setpro" finished-at="2023-11-25T20:26:19 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setpro -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:adnabu.difflang@2d3379b4]" started-at="2023-11-25T20:26:19 IST" name="openBrowser" finished-at="2023-11-25T20:26:24 IST" duration-ms="4605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="mixedlang()[pri:0, instance:adnabu.difflang@2d3379b4]" started-at="2023-11-25T20:26:24 IST" name="mixedlang" finished-at="2023-11-25T20:26:29 IST" duration-ms="5671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mixedlang -->
+      </class> <!-- adnabu.difflang -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
